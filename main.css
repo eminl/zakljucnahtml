@@ -56,7 +56,7 @@ li {
 
 .menu ul li ul li:active {
     background-color: blue;
-    border-color: black;
+    border-color: blue;
 }
 
 .menu li:hover {
