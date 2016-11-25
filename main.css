@@ -55,7 +55,7 @@ li {
 }
 
 .menu ul li ul li:active {
-    font-size: 13pt;
+    background-color: blue;
 }
 
 .menu li:hover {
